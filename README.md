@@ -222,7 +222,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Sanjana C K - 23202041@rmd.ac.in
 
-Project Link: 
+Project Link: https://github.com/sanjanachandrann/CineVault---Movie-Explorer-App
 
 ---
 
