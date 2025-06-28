@@ -16,7 +16,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](![Screenshot 2025-06-29 021001](https://github.com/user-attachments/assets/84e4bab7-a530-4534-8ef9-41594971889a)
+(![Screenshot 2025-06-29 021001](https://github.com/user-attachments/assets/84e4bab7-a530-4534-8ef9-41594971889a)
 )
 
 ### 🔍 Search Results
