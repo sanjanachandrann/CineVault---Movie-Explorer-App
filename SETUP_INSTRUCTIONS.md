@@ -193,7 +193,7 @@ Your app is already PWA-ready! Users can install it on their devices.
 
 - Check the [Issues](https://github.com/yourusername/cinevault-movie-explorer/issues) section
 - Read the [Contributing Guide](CONTRIBUTING.md)
-- Contact: your.email@example.com
+- Contact: 23202041@rmd.ac.in
 
 ## 🎉 You're Done!
 
