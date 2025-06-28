@@ -16,17 +16,17 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-(![Screenshot 2025-06-29 021001](https://github.com/user-attachments/assets/84e4bab7-a530-4534-8ef9-41594971889a)
-)
+[Screenshot 2025-06-29 021001](https://github.com/user-attachments/assets/84e4bab7-a530-4534-8ef9-41594971889a)
+
 
 ### 🔍 Search Results
-![Search Results](./screenshots/search.png)
+[Screenshot 2025-06-29 021046](https://github.com/user-attachments/assets/9d0d4629-91f1-4ab4-99b7-f1672a38b3a5)
+
 
 ### ❤️ Favorites
-![Favorites](./screenshots/favorites.png)
+[Screenshot 2025-06-29 021046](https://github.com/user-attachments/assets/d4da8eb2-2f53-4b44-9cfe-66d445ce22b9)
 
-### 📱 Mobile View
-![Mobile View](./screenshots/mobile.png)
+
 
 ---
 
